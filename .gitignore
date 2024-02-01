@@ -1,0 +1,14 @@
+# VSCode
+.vscode
+.ipynb_checkpoints
+
+# pythons
+**/__pycache__
+
+# coverage
+.coverage
+htmlcov
+
+# image files
+**/*.jpeg
+**/*.png

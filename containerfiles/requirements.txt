@@ -1,0 +1,4 @@
+## pip package requiremnts for development environment
+numpy
+Pillow
+coverage

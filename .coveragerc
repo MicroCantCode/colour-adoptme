@@ -1,0 +1,4 @@
+# Configuration for python coverage tool
+[run]
+omit = */__init__.py
+       */__pycache__
